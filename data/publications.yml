@@ -1,0 +1,14 @@
+# data/publications.yml
+enable: true
+title: "Publications"
+subtitle: "Selected research and articles"
+items:
+  - title: "A Study on Artificial Intelligence"
+    published: "IEEE Journal, 2024"
+    link: "https://example.com/paper1"
+    summary: "An in-depth analysis of AI patterns in modern web development."
+    
+  - title: "Optimizing Hugo Themes"
+    published: "Web Dev Conference, 2023"
+    link: "https://example.com/paper2"
+    summary: "Strategies for improving static site generator performance."

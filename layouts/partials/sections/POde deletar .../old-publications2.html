@@ -1,0 +1,81 @@
+{{/* 1. Get the publications section */}}
+{{ $section := site.GetPage "section" "publications" }}
+
+{{ if $section }}
+<section id="publications" class="section-publications py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading text-uppercase">{{ $section.Title }}</h2>
+                {{ if $section.Params.subtitle }}
+                <h3 class="section-subheading text-muted">{{ $section.Params.subtitle }}</h3>
+                {{ end }}
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="publication-list">
+                    {{/* Loop through papers, sorted by Date (Newest first) */}}
+                    {{ range $section.RegularPages.ByDate.Reverse }}
+                    <div class="mb-5">
+                        
+                        <h4 class="mb-2">
+                            {{ .Title }}
+                        </h4>
+
+                        <div class="text-muted mb-2" style="font-size: 0.95rem;">
+                            <span class="text-uppercase" style="font-weight: 600; color: #333;">
+                                {{/* Authors are a list in your file, so we join them with commas */}}
+                                {{ delimit .Params.authors ", " }}
+                            </span>
+                            <br>
+                            
+                            {{/* Handle Publication Name (renders Markdown like *Journal*) */}}
+                            {{ if .Params.publication }}
+                                <span>{{ .Params.publication | markdownify }}</span>
+                            {{ end }}
+                            
+                            {{/* Year */}}
+                            <span>({{ .Date.Format "2006" }})</span>
+                        </div>
+
+                        {{ if .Params.abstract }}
+                        <div class="mb-3 text-muted">
+                            {{ .Params.abstract }}
+                        </div>
+                        {{ else if .Summary }}
+                        <div class="mb-3 text-muted">
+                            {{ .Summary }}
+                        </div>
+                        {{ end }}
+
+                        <div class="publication-links">
+                            
+                            {{ range .Params.links }}
+                                <a href="{{ .url }}" class="btn btn-sm btn-outline-dark me-2" target="_blank">
+                                    {{ .name }}
+                                </a>
+                            {{ end }}
+
+                            {{ if .Params.hugoblox.ids.doi }}
+                                <a href="https://doi.org/{{ .Params.hugoblox.ids.doi }}" class="btn btn-sm btn-outline-dark me-2" target="_blank">
+                                    DOI
+                                </a>
+                            {{ end }}
+
+                            {{ if .Params.url_pdf }}
+                                <a href="{{ .Params.url_pdf }}" class="btn btn-sm btn-outline-dark me-2" target="_blank">PDF</a>
+                            {{ end }}
+                            
+                        </div>
+                        
+                        <hr class="mt-4">
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
