@@ -79,24 +79,24 @@
         <div class="publication-links">
             {{/* Abstract Button */}}
             {{ if or .Params.abstract .Summary }}
-            <button class="btn btn-sm btn-outline-primary me-2" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $abstractID }}" aria-expanded="false" aria-controls="{{ $abstractID }}">
+            <button class="btn btn-sm btn-outline-secondary me-2" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $abstractID }}" aria-expanded="false" aria-controls="{{ $abstractID }}">
                 Abstract
             </button>
             {{ end }}
 
             {{/* Links */}}
             {{ range .Params.links }}
-                <a href="{{ .url }}" class="btn btn-sm btn-outline-dark me-2" target="_blank">{{ .name }}</a>
+                <a href="{{ .url }}" class="btn btn-sm btn-outline-secondary me-2" target="_blank">{{ .name }}</a>
             {{ end }}
 
             {{/* DOI */}}
             {{ if .Params.doi }}
-                <a href="https://doi.org/{{ .Params.doi }}" class="btn btn-sm btn-outline-dark me-2" target="_blank">DOI</a>
+                <a href="https://doi.org/{{ .Params.doi }}" class="btn btn-sm btn-outline-secondary me-2" target="_blank">DOI</a>
             {{ end }}
 
             {{/* PDF */}}
             {{ if .Params.url_pdf }}
-                <a href="{{ .Params.url_pdf }}" class="btn btn-sm btn-outline-dark me-2" target="_blank">PDF</a>
+                <a href="{{ .Params.url_pdf }}" class="btn btn-sm btn-outline-secondary me-2" target="_blank">PDF</a>
             {{ end }}
         </div>
 
