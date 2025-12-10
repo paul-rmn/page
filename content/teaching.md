@@ -31,13 +31,13 @@ tags : []
 * **Segunda 8 DEZ 2025:** 
 * **Sexta 5 DEZ 2025:** 
 * **Quarta 3 DEZ 2025** 
-* **Segunda 1 DEZ 2025:** Teorema de Dirichlet: Motivação
-* **Sexta 28 DEZ 2025:** Prova do Teorema dos Números Primos e resultados mais avançados
-* **Quarta 26 DEZ 2025** Aula de Exercícios
-* **Segunda 24 DEZ 2025:** Cotas superiores para a função \\(\zeta\\)
-* **Sexta 21 DEZ 2025:** Recesso Escolar
-* **Quarta 19 DEZ 2025** Cotas superiores para a função \\(\zeta\\) e \\(\zeta'\\)
-* **Segunda 17 DEZ 2025:** Teorema dos Números Primos: Não-anulação de \\(\zeta\\) em \\(\Re(s)=1\\).
+* **Segunda 1 DEZ 2025:** [Teorema de Dirichlet: Motivação](/uploads/TAN-2025-2/aula-2025-12-01.pdf)
+* **Sexta 28 NOV 2025:** [Prova do Teorema dos Números Primos e resultados mais avançados](/uploads/TAN-2025-2/aula-2025-11-28.pdf)
+* **Quarta 26 NOV 2025** Aula de Exercícios
+* **Segunda 24 NOV 2025:** [Cotas superiores para a função \\(\zeta\\)](/uploads/TAN-2025-2/aula-2025-11-24.pdf)
+* **Sexta 21 NOV 2025:** Recesso Escolar
+* **Quarta 19 NOV 2025** [Cotas superiores para a função \\(\zeta\\) e \\(\zeta'\\)](/uploads/TAN-2025-2/aula-2025-11-19.pdf)
+* **Segunda 17 NOV 2025:** [Teorema dos Números Primos: Não-anulação de \\(\zeta\\) em \\(\Re(s)=1\\).](/uploads/TAN-2025-2/aula-2025-11-17.pdf)
 
 
 

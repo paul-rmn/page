@@ -71,12 +71,31 @@
     {{/* Generate Unique ID */}}
     {{ $abstractID := printf "abstract-%s" .File.UniqueID }}
     
+    {{/* --- LOGICA DE AUTORES --- */}}
+
+    {{/* Defina TODAS as variações do seu nome aqui */}}
+    {{ $myNames := slice "Ramon Nunes" "Ramon Moreira Nunes" "Ramon M. Nunes" "Ramon M Nunes" }}    
+
+    {{/* 2. Filtra os autores */}}
+    {{ $coauthors := slice }}
+    {{ range .Params.authors }}
+        {{/* Verifica se o autor atual NÃO está na lista dos seus nomes */}}
+        {{ if not (in $myNames .) }}
+            {{ $coauthors = $coauthors | append . }}
+        {{ end }}
+    {{ end }}
+
     <div class="mb-5">
             <span class="mb-2" style="font-size: 1.3rem">{{ .Title }}</span>
 
+            
+            {{/* Exibe 'joint with' apenas se houver coautores */}}
+            {{ if gt (len $coauthors) 0 }}
             <span class="text-muted mb-2 text-uppercase" style="font-weight: 600; color: #333;">
-                {{ delimit .Params.authors ", " }}
+                joint with {{ delimit $coauthors ", " " and " }}
             </span>
+            {{ end }} 
+
             <!-- <br> -->
             
             {{ if .Params.publication }}
