@@ -28,7 +28,7 @@ publication_types:
 publication: 'Accepted, American Journal of Mathematics'
 publication_short: ''
 
-doi: 10.48550/arXiv.2111.02297
+# doi: 10.48550/arXiv.2111.02297
 
 abstract: We prove a reciprocity formula for the average of the product of Rankin--Selberg
   $L$-functions $L(1/2,\Pi\times\widetilde\sigma)L(1/2,\sigma\times\widetilde\pi)$ as $\sigma$

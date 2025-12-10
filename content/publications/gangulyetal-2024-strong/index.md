@@ -11,7 +11,7 @@ publishDate: '2025-11-30T23:42:07.088774Z'
 publication_types:
 - preprint
 publication: '*arXiv*'
-doi: 10.48550/arXiv.2408.00596
+# doi: 10.48550/arXiv.2408.00596
 abstract: We prove strong hybrid subconvex bounds simultaneously in the $q$ and $t$
   aspects for $L$-functions of selfdual $ \mathrm{GL}_3$
   cusp forms twisted by primitive Dirichlet characters. We additionally prove analogous

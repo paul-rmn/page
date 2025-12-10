@@ -57,7 +57,12 @@ Menus:
     #   url: /#
     #   parent: dropdown
     #   weight: 2
-    - name: Publications
+    - identifier: "teaching"
+      name: "Teaching"
+      url: "/teaching" 
+      weight: 20
+    - identifier: publications
+      name: Publications
       url: "/#publications"
       weight: 4  # Adjust weight to change the order
 params:

@@ -69,6 +69,9 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2010.03696
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

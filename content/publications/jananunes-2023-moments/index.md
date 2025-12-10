@@ -28,7 +28,7 @@ publication_types:
 publication: '*arXiv*'
 publication_short: ''
 
-doi: 10.48550/arXiv.2309.06461
+# doi: 10.48550/arXiv.2309.06461
 
 abstract: We prove an asymptotic formula for the second moment of the $\mathrm{GL}(n)\times\mathrm{GL}(n+1)$
   Rankin--Selberg central $L$-values $L(1/2,\Pi\otimes\pi)$, where $\pi$ is a fixed cuspidal
