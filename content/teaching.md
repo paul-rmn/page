@@ -26,11 +26,11 @@ tags : []
 * **Sexta 19 DEZ 2025:** Apresentações João Guilherme e Israel
 * **Quarta 17 DEZ 2025** AP2 
 * **Segunda 15 DEZ 2025:** Aula de exercícios
-* **Sexta 12 DEZ 2025:** 
-* **Quarta 10 DEZ 2025**  
-* **Segunda 8 DEZ 2025:** 
-* **Sexta 5 DEZ 2025:** 
-* **Quarta 3 DEZ 2025** 
+* **Sexta 12 DEZ 2025:** Estudo livre 
+* **Quarta 10 DEZ 2025** Estudo livre
+* **Segunda 8 DEZ 2025:**
+* **Sexta 5 DEZ 2025:** [Ortogonalidade de caracteres de Dirichlet e aplicações](/uploads/TAN-2025-2/aula-2025-12-05.pdf)
+* **Quarta 3 DEZ 2025** [Caracteres de Dirichlet: Bijeções e teorema fundamental](/uploads/TAN-2025-2/quadros-3-dezembro.pdf)
 * **Segunda 1 DEZ 2025:** [Teorema de Dirichlet: Motivação](/uploads/TAN-2025-2/aula-2025-12-01.pdf)
 * **Sexta 28 NOV 2025:** [Prova do Teorema dos Números Primos e resultados mais avançados](/uploads/TAN-2025-2/aula-2025-11-28.pdf)
 * **Quarta 26 NOV 2025** Aula de Exercícios
