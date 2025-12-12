@@ -29,7 +29,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -42,40 +42,41 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:165.649px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.622159"
-       x="-38.726627"
-       y="262.54269"
+       style="font-size:124.548px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.467785"
+       x="8.052227"
+       y="244.06229"
        id="text1"
-       transform="matrix(0.97052825,0.05703001,0.28554797,1.047146,0,0)"><tspan
+       transform="matrix(0.97242864,0.05691855,0.28610709,1.0450996,0,0)"><tspan
          id="tspan1"
-         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.622161"
-         x="-38.726627"
-         y="262.54269"
+         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.467786"
+         x="8.052227"
+         y="244.06229"
          sodipodi:role="line">H</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:206.486px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.775545;stroke-opacity:1"
-       x="23.344591"
-       y="486.71423"
+       style="font-size:155.995px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.585904;stroke-opacity:1"
+       x="37.501179"
+       y="444.37421"
        id="text2"
-       transform="matrix(1.127043,-0.44092578,0.35535838,0.74825303,0,0)"><tspan
+       transform="matrix(1.1238685,-0.44217121,0.35435746,0.75036655,0,0)"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.775546;stroke-opacity:1"
-         x="23.344591"
-         y="486.71423">i</tspan><tspan
+         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.585905;stroke-opacity:1"
+         x="37.501179"
+         y="444.37421">i</tspan><tspan
          sodipodi:role="line"
-         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.775546;stroke-opacity:1"
-         x="23.344591"
-         y="744.82172"
+         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.585905;stroke-opacity:1"
+         x="37.501179"
+         y="639.36792"
          id="tspan3" /></text>
-    <circle
-       style="display:inline;fill:#000000;fill-opacity:0;stroke:#183a9a;stroke-width:6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+    <ellipse
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#183a9a;stroke-width:4.53284;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
        id="path3"
-       inkscape:transform-center-x="0.0057137954"
-       inkscape:transform-center-y="0.00016852219"
-       cx="200.88441"
-       cy="199.64149"
-       r="195" />
+       inkscape:transform-center-x="0.0043013652"
+       inkscape:transform-center-y="0.00012783938"
+       cx="200.83116"
+       cy="200"
+       rx="146.90253"
+       ry="147.73358" />
   </g>
 </svg>
