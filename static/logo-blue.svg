@@ -24,15 +24,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.45224034"
-     inkscape:cx="1052.5377"
+     inkscape:cx="491.99503"
      inkscape:cy="769.50234"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true" />
+     showguides="true"
+     inkscape:lockguides="false" />
   <defs
      id="defs1" />
   <g
@@ -41,32 +42,32 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:185.954px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.698426"
-       x="-85.674294"
-       y="320.85052"
+       style="font-size:165.649px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.622159"
+       x="-38.726627"
+       y="262.54269"
        id="text1"
-       transform="matrix(1.1246054,0.04921658,0.33088045,0.90368124,0,0)"><tspan
+       transform="matrix(0.97052825,0.05703001,0.28554797,1.047146,0,0)"><tspan
          id="tspan1"
-         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.698428"
-         x="-85.674294"
-         y="320.85052"
+         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.622161"
+         x="-38.726627"
+         y="262.54269"
          sodipodi:role="line">H</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:188.834px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.709242;stroke-opacity:1"
-       x="126.38994"
-       y="424.39621"
+       style="font-size:206.486px;font-family:Zapfino;-inkscape-font-specification:'Zapfino, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.775545;stroke-opacity:1"
+       x="23.344591"
+       y="486.71423"
        id="text2"
-       transform="matrix(1.0829377,-0.18550036,0.19391598,0.89019759,0,0)"><tspan
+       transform="matrix(1.127043,-0.44092578,0.35535838,0.74825303,0,0)"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.709243;stroke-opacity:1"
-         x="126.38994"
-         y="424.39621">i</tspan><tspan
+         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.775546;stroke-opacity:1"
+         x="23.344591"
+         y="486.71423">i</tspan><tspan
          sodipodi:role="line"
-         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.709243;stroke-opacity:1"
-         x="126.38994"
-         y="660.43872"
+         style="fill:#183a9a;fill-opacity:1;stroke:none;stroke-width:0.775546;stroke-opacity:1"
+         x="23.344591"
+         y="744.82172"
          id="tspan3" /></text>
     <circle
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#183a9a;stroke-width:6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
