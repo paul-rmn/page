@@ -25,6 +25,9 @@
         {{/* Filter Published: Look for "article-journal" in publication_types */}}
         {{ $published := where $all_pages "Params.publication_types" "intersect" (slice "article-journal") }}
 
+        {{/* Filter books: Look for "books" in publication_types */}}
+        {{ $books := where $all_pages "Params.publication_types" "intersect" (slice "books") }}
+        
         {{/* Filter theses: Look for "theses" in publication_types */}}
         {{ $theses := where $all_pages "Params.publication_types" "intersect" (slice "theses") }}
         <div class="row">
@@ -47,6 +50,14 @@
                     {{ end }}
                     {{ end }}
 
+                    {{/* Render Books */}}
+                    {{ if gt (len $books) 0 }}
+                    <h3 class="mt-5 mb-4 text-muted border-bottom pb-2">Books</h3>
+                    {{ range $books }}
+                        {{ template "publication-item" . }}
+                    {{ end }}
+                    {{ end }}
+                    
                     {{/* Render Theses */}}
                     {{ if gt (len $theses) 0 }}
                     <h3 class="mt-5 mb-4 text-muted border-bottom pb-2">Theses</h3>
