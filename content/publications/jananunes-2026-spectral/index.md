@@ -14,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2026-01-31'
+date: '2026-01-26'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-11-08T21:49:38.120745Z'
@@ -22,13 +22,13 @@ publishDate: '2025-11-08T21:49:38.120745Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- preprint
+- article-journal 
 
 # Publication name and optional abbreviated publication name.
-publication: 'Accepted, American Journal of Mathematics'
+publication: '*American Journal of Mathematics*'
 publication_short: ''
 
-# doi: 10.48550/arXiv.2111.02297
+doi: 10.1353/ajm.2026.a980773
 
 abstract: We prove a reciprocity formula for the average of the product of Rankin--Selberg
   $L$-functions $L(1/2,\Pi\times\widetilde\sigma)L(1/2,\sigma\times\widetilde\pi)$ as $\sigma$
