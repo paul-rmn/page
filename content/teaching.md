@@ -21,26 +21,30 @@ math: true
 tags : []
 ---
 
-## Semestre 2025.2
-### Teoria Analítica dos Números
-* **Segunda 09 JAN 2026:** 
-* **Segunda 07 JAN 2026:** 
-* **Segunda 05 JAN 2026:** 
-* **Sexta 19 DEZ 2025:** AP2
-* **Quarta 17 DEZ 2025** Apresentação Israel + exercícios 
-* **Segunda 15 DEZ 2025:** Aula de exercícios
-* **Sexta 12 DEZ 2025:** Estudo livre 
-* **Quarta 10 DEZ 2025** Estudo livre
-* **Segunda 8 DEZ 2025:** [Não-Anulação de \\(L(1,\chi)\\)](/uploads/TAN-2025-2/aula-2025-12-08.pdf)
-* **Sexta 5 DEZ 2025:** [Ortogonalidade de caracteres de Dirichlet e aplicações](/uploads/TAN-2025-2/aula-2025-12-05.pdf)
-* **Quarta 3 DEZ 2025** [Caracteres de Dirichlet: Bijeções e teorema fundamental](/uploads/TAN-2025-2/aula-2025-12-03.pdf)
-* **Segunda 1 DEZ 2025:** [Teorema de Dirichlet: Motivação](/uploads/TAN-2025-2/aula-2025-12-01.pdf)
-* **Sexta 28 NOV 2025:** [Prova do Teorema dos Números Primos e resultados mais avançados](/uploads/TAN-2025-2/aula-2025-11-28.pdf)
-* **Quarta 26 NOV 2025** Aula de Exercícios
-* **Segunda 24 NOV 2025:** [Cotas inferiores para a função \\(\zeta\\)](/uploads/TAN-2025-2/aula-2025-11-24.pdf)
-* **Sexta 21 NOV 2025:** Recesso Escolar
-* **Quarta 19 NOV 2025** [Cotas superiores para a função \\(\zeta\\) e \\(\zeta'\\)](/uploads/TAN-2025-2/aula-2025-11-19.pdf)
-* **Segunda 17 NOV 2025:** [Teorema dos Números Primos: Não-anulação de \\(\zeta\\) em \\(\Re(s)=1\\).](/uploads/TAN-2025-2/aula-2025-11-17.pdf)
+## Semestre 2026.1
+### Teoria dos Números
+* **Notas de aula: [Link](https://www.overleaf.com/project/69a5c4c3b58cb264e22c326d)** 
+
+<!-- ## Semestre 2025.2 -->
+<!-- ### Teoria Analítica dos Números -->
+<!-- * **Segunda 09 JAN 2026:**  -->
+<!-- * **Segunda 07 JAN 2026:**  -->
+<!-- * **Segunda 05 JAN 2026:**  -->
+<!-- * **Sexta 19 DEZ 2025:** AP2 -->
+<!-- * **Quarta 17 DEZ 2025** Apresentação Israel + exercícios  -->
+<!-- * **Segunda 15 DEZ 2025:** Aula de exercícios -->
+<!-- * **Sexta 12 DEZ 2025:** Estudo livre  -->
+<!-- * **Quarta 10 DEZ 2025** Estudo livre -->
+<!-- * **Segunda 8 DEZ 2025:** [Não-Anulação de \\(L(1,\chi)\\)](/uploads/TAN-2025-2/aula-2025-12-08.pdf) -->
+<!-- * **Sexta 5 DEZ 2025:** [Ortogonalidade de caracteres de Dirichlet e aplicações](/uploads/TAN-2025-2/aula-2025-12-05.pdf) -->
+<!-- * **Quarta 3 DEZ 2025** [Caracteres de Dirichlet: Bijeções e teorema fundamental](/uploads/TAN-2025-2/aula-2025-12-03.pdf) -->
+<!-- * **Segunda 1 DEZ 2025:** [Teorema de Dirichlet: Motivação](/uploads/TAN-2025-2/aula-2025-12-01.pdf) -->
+<!-- * **Sexta 28 NOV 2025:** [Prova do Teorema dos Números Primos e resultados mais avançados](/uploads/TAN-2025-2/aula-2025-11-28.pdf) -->
+<!-- * **Quarta 26 NOV 2025** Aula de Exercícios -->
+<!-- * **Segunda 24 NOV 2025:** [Cotas inferiores para a função \\(\zeta\\)](/uploads/TAN-2025-2/aula-2025-11-24.pdf) -->
+<!-- * **Sexta 21 NOV 2025:** Recesso Escolar -->
+<!-- * **Quarta 19 NOV 2025** [Cotas superiores para a função \\(\zeta\\) e \\(\zeta'\\)](/uploads/TAN-2025-2/aula-2025-11-19.pdf) -->
+<!-- * **Segunda 17 NOV 2025:** [Teorema dos Números Primos: Não-anulação de \\(\zeta\\) em \\(\Re(s)=1\\).](/uploads/TAN-2025-2/aula-2025-11-17.pdf) -->
 
 
 
