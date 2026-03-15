@@ -10,7 +10,7 @@ date: '2024-08-01'
 publishDate: '2025-11-30T23:42:07.088774Z'
 publication_types:
 - preprint
-publication: '*arXiv*'
+publication: '*accepted, Mathematische Annalen*'
 # doi: 10.48550/arXiv.2408.00596
 abstract: We prove strong hybrid subconvex bounds simultaneously in the $q$ and $t$
   aspects for $L$-functions of selfdual $ \mathrm{GL}_3$
