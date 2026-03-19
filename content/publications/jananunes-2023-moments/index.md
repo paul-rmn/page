@@ -25,7 +25,7 @@ publication_types:
 
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv*'
+publication: '*accepted Proc. London Math. Soc.*'
 publication_short: ''
 
 # doi: 10.48550/arXiv.2309.06461
