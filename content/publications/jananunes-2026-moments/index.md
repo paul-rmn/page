@@ -21,14 +21,14 @@ publishDate: '2025-11-08T21:49:38.127653Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- preprint
-
+- article-journal 
 
 # Publication name and optional abbreviated publication name.
-publication: '*accepted Proc. London Math. Soc.*'
+publication: 'Proc. London Math. Soc.*'
 publication_short: ''
 
-# doi: 10.48550/arXiv.2309.06461
+doi: 10.1112/plms.70155
+
 
 abstract: We prove an asymptotic formula for the second moment of the $\mathrm{GL}(n)\times\mathrm{GL}(n+1)$
   Rankin--Selberg central $L$-values $L(1/2,\Pi\otimes\pi)$, where $\pi$ is a fixed cuspidal
