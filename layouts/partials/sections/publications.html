@@ -142,7 +142,7 @@
         {{/* Collapsible Abstract */}}
         {{ if or .Params.abstract .Summary }}
         <div class="collapse mt-3" id="{{ $abstractID }}">
-            <div class="card card-body text-muted bg-light border-0">
+            <div class="card card-body border-0" style="background-color: var(--secondary-color); color: var(--text-secondary-color);">
                 {{ if .Params.abstract }}
                     <span>{{ .Params.abstract }}</span>
                 {{ else }}
