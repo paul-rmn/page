@@ -6,11 +6,11 @@ authors:
 - Peter Humphries
 - Yongxiao Lin
 - Ramon Nunes
-date: '2024-08-01'
+date: '2026-07-01'
 publishDate: '2025-11-30T23:42:07.088774Z'
 publication_types:
 - article-journal 
-publication: 'Mathematische Annalen'
+publication: '*Mathematische Annalen*'
 doi: 10.1007/s00208-026-03447-z
 abstract: We prove strong hybrid subconvex bounds simultaneously in the $q$ and $t$
   aspects for $L$-functions of selfdual $ \mathrm{GL}_3$

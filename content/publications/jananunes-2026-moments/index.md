@@ -1,5 +1,5 @@
 ---
-title: Moments of $L$-Functions via the Relative Trace Formula
+title: Moments of $L$-Functions via a Relative Trace Formula
 
 # Authors
 # A YAML list of author names
@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-09-01'
+date: '2026-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-11-08T21:49:38.127653Z'
@@ -24,7 +24,7 @@ publication_types:
 - article-journal 
 
 # Publication name and optional abbreviated publication name.
-publication: 'Proc. London Math. Soc.*'
+publication: '*Proceedings of the London Mathematical Society*'
 publication_short: ''
 
 doi: 10.1112/plms.70155
