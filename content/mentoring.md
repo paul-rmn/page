@@ -44,8 +44,8 @@ Inline math on this page uses \\( ... \\).
 * **Pedro Ramon Souza de Almeida**<br><span class="meta">UFC · September 2026 – present</span>
 * **Ycaro Castro Teles**<br><span class="meta">UFC · September 2026 – present</span>
 * **Francisco Guilherme Ferreira Sousa**<br><span class="meta">UFC · January 2026 – July 2026</span>
-* **João Guilherme Costa Viana**<br><span class="meta">UFC · March 2025 – December 2025</span><br>*Teoria analítica dos números via problemas*
-* **Kauã Allan Araújo de Souza**<br><span class="meta">UFC · September 2024 – present</span><br>*O teorema da progressão aritmética de Dirichlet*<br>*Aprofundamento das técnicas de teoria analítica dos números*
-* **Israel Mesquita Magalhães**<br><span class="meta">UFC · August 2024 – December 2025</span><br>*O teorema dos números primos*<br>*O problema do empacotamento de esferas*
+* **João Guilherme Costa Viana**<br><span class="meta">UFC · March 2025 – December 2025</span>
+* **Kauã Allan Araújo de Souza**<br><span class="meta">UFC · September 2024 – present</span>
+* **Israel Mesquita Magalhães**<br><span class="meta">UFC · August 2024 – December 2025</span>
 
 </div>
