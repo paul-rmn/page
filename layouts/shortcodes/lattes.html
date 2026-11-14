@@ -1,0 +1,6 @@
+{{- /* Lattes CV icon link. Usage: {{< lattes 0945928298949594 >}} or {{< lattes "http://lattes.cnpq.br/0945928298949594" >}} */ -}}
+{{- $arg := .Get 0 -}}
+{{- /* Unquoted IDs arrive as numbers and lose their leading zeros; Lattes IDs have 16 digits. */ -}}
+{{- $id := cond (eq (printf "%T" $arg) "string") $arg (printf "%016d" $arg) -}}
+{{- $url := cond (hasPrefix $id "http") $id (printf "http://lattes.cnpq.br/%s" $id) -}}
+<a href="{{ $url }}" target="_blank" rel="noopener" title="Lattes CV" aria-label="Lattes CV" style="text-decoration: none;"><i class="ai ai-lattes"></i></a>

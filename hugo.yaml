@@ -59,8 +59,12 @@ Menus:
     #   weight: 2
     - identifier: "teaching"
       name: "Teaching"
-      url: "/teaching" 
+      url: "/teaching"
       weight: 20
+    - identifier: mentoring
+      name: "Mentoring"
+      url: "/mentoring"
+      weight: 25
     - identifier: publications
       name: Publications
       url: "/#publications"
@@ -70,6 +74,25 @@ Menus:
       title: "An Automorphic Project"
       url: "https://automorphic.ramonmn.com/"
       weight: 30
+    - identifier: semear
+      name: "SemEAr"
+      url: "#"
+      weight: 40
+    - identifier: semear1
+      name: "I SemEAr"
+      url: "https://sites.google.com/ufg.br/isemear"
+      parent: semear
+      weight: 1
+    - identifier: semear2
+      name: "II SemEAr"
+      url: "https://sites.google.com/ufg.br/iisemear"
+      parent: semear
+      weight: 2
+    - identifier: semear3
+      name: "III SemEAr"
+      url: "https://sites.google.com/ufg.br/iiisemear"
+      parent: semear
+      weight: 3
 params:
   title: "Ramon Nunes' personal website"
   description: "just a random mathematician's professional website"
