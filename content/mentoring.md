@@ -9,29 +9,43 @@ tags: []
 
 <!--
 One bullet per person, most recent first. Format:
-* **Name**, Institution, 2024 – present. *Thesis title*
+* **Name**<br><span class="meta">Institution · Month Year – present</span><br>*Thesis or project title*
 To add a Lattes CV icon after a name, put the lattes shortcode with the
 16-digit Lattes ID right after the bold name (see layouts/shortcodes/lattes.html).
 Inline math on this page uses \\( ... \\).
 -->
 
+<style>
+  .mentoring h2 { margin-top: 2.75rem; margin-bottom: 1.25rem; }
+  .mentoring ul { list-style: none; padding-left: 0 !important; margin-left: 0 !important; }
+  .mentoring li { margin-bottom: 1.75rem; line-height: 1.6; }
+  .mentoring li strong { font-size: 1.1em; }
+  .mentoring .meta { color: var(--text-secondary-color); font-size: 0.95em; }
+</style>
+
+<div class="mentoring">
+
 ## Postdocs
 
-* **Caio César Mafia Bueno**, UFC, starting January 2027
+* **Caio César Mafia Bueno**<br><span class="meta">UFC · starting January 2027</span>
 
 ## Ph.D.
 
-* **Davi Nilson Mendonça Souza**, UFC, March 2025 – present
+* **Davi Nilson Mendonça Souza**<br><span class="meta">UFC · March 2025 – present</span>
 
 ## Master's
 
-* **Otávio Araújo de Aguiar**, UFC, 2019 – 2021. *[Sobre o problema de Linnik na esfera](https://repositorio.ufc.br/bitstream/riufc/61405/5/2021_dis_oaaguiar.pdf)*
+* **Francisco Guilherme Ferreira Sousa**<br><span class="meta">UFC · August 2026 – present</span>
+* **Otávio Araújo de Aguiar**<br><span class="meta">UFC · 2019 – 2021</span><br>*[Sobre o problema de Linnik na esfera](https://repositorio.ufc.br/bitstream/riufc/61405/5/2021_dis_oaaguiar.pdf)*
 
 ## Undergraduate
 
-* **João Marcos Aragão Mesquita Rogério**, UFC, September 2026 – present
-* **Pedro Ramon Souza de Almeida**, UFC, September 2026 – present
-* **Ycaro Castro Teles**, UFC, September 2026 – present
-* **João Guilherme Costa Viana**, UFC, 2025. *Teoria analítica dos números via problemas*
-* **Israel Mesquita Magalhães**, UFC, 2023 – 2024. *O teorema dos números primos* (2023); *O problema do empacotamento de esferas* (2024)
-* **Kauã Allan Araújo de Souza**, UFC, 2023 – 2024. *O teorema da progressão aritmética de Dirichlet* (2023); *Aprofundamento das técnicas de teoria analítica dos números* (2024)
+* **João Marcos Aragão Mesquita Rogério**<br><span class="meta">UFC · September 2026 – present</span>
+* **Pedro Ramon Souza de Almeida**<br><span class="meta">UFC · September 2026 – present</span>
+* **Ycaro Castro Teles**<br><span class="meta">UFC · September 2026 – present</span>
+* **Francisco Guilherme Ferreira Sousa**<br><span class="meta">UFC · January 2026 – July 2026</span>
+* **João Guilherme Costa Viana**<br><span class="meta">UFC · March 2025 – December 2025</span><br>*Teoria analítica dos números via problemas*
+* **Kauã Allan Araújo de Souza**<br><span class="meta">UFC · September 2024 – present</span><br>*O teorema da progressão aritmética de Dirichlet*<br>*Aprofundamento das técnicas de teoria analítica dos números*
+* **Israel Mesquita Magalhães**<br><span class="meta">UFC · August 2024 – December 2025</span><br>*O teorema dos números primos*<br>*O problema do empacotamento de esferas*
+
+</div>
