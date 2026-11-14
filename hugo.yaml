@@ -177,7 +177,7 @@ params:
     content: |-
       <p style="font-size: 1.1em;">I'm an assistant professor at the Universidade Federal do Ceará.</p>
 
-      <p style="font-size: 1.1em;">I was a visiting scholar at the Max Planck Institute for Mathematics, held a visiting professorship at the Universidade Federal do Ceará and a post-doctoral position at the École Polytechnique Fédérale de Lausanne, mentored by Philippe Michel. I did my Phd at the Université Paris-Sud. My Phd advisor was Étienne Fouvry.</p>
+      <p style="font-size: 1.1em;">I was a visiting scholar at the Max Planck Institute for Mathematics, held a visiting professorship at the Universidade Federal do Ceará and a post-doctoral position at the École Polytechnique Fédérale de Lausanne, mentored by Philippe Michel. I did my PhD at the Université Paris-Sud. My PhD advisor was Étienne Fouvry.</p>
       
       <p style="font-size: 1.1em;">My research interests lie in Analytic Number Theory, Automorphic forms, L-functions and Trace Formulae.</p>
       
@@ -275,7 +275,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Phd in Mathematics "
+      - title: "PhD in Mathematics "
         school:
           name: "Université Paris-Sud"
           url: "https://www.universite-paris-saclay.fr/"

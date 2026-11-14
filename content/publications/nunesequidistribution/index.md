@@ -31,7 +31,7 @@ publication_types:
 abstract: This thesis concerns a few problems linked with the distribution of squarefree
   integers in arithmetic progressions. Such problems are usually phrased in terms
   of upper bounds for the error term related to this distribution.
-publication: '*Phd Thesis*'
+publication: '*PhD Thesis*'
 links:
 - name: pdf
   url: /uploads/Tese.pdf
