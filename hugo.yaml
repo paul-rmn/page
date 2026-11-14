@@ -65,6 +65,11 @@ Menus:
       name: Publications
       url: "/#publications"
       weight: 4  # Adjust weight to change the order
+    - identifier: automorphic
+      name: "An Automorphic Project"
+      title: "An Automorphic Project"
+      url: "https://automorphic.ramonmn.com/"
+      weight: 30
 params:
   title: "Ramon Nunes' personal website"
   description: "just a random mathematician's professional website"
