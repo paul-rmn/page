@@ -102,8 +102,18 @@
             
             {{/* Exibe 'joint with' apenas se houver coautores */}}
             {{ if gt (len $coauthors) 0 }}
-            <span class="text-muted mb-2 text-uppercase" style="font-weight: 600; color: #333;">
-                joint with {{ delimit $coauthors ", " " and " }}
+            {{/* Link coauthors listed in data/coauthors.yaml */}}
+            {{ $names := slice }}
+            {{ range $name := $coauthors }}
+                {{ $url := index site.Data.coauthors $name }}
+                {{ if $url }}
+                    {{ $names = $names | append (printf `<a href="%s" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline;">%s</a>` $url (htmlEscape $name)) }}
+                {{ else }}
+                    {{ $names = $names | append (htmlEscape $name) }}
+                {{ end }}
+            {{ end }}
+            <span class="text-muted mb-2 text-uppercase" style="font-weight: 600; color: #333; font-size: 0.85rem;">
+                joint with {{ delimit $names ", " " and " | safeHTML }}
             </span>
             {{ end }} 
 
