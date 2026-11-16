@@ -23,7 +23,11 @@ tags : []
 
 ## Semestre 2026.1
 ### Teoria dos Números
-* **Notas de aula: [Link](https://www.overleaf.com/project/69a5c4c3b58cb264e22c326d)** 
+* **Notas de aula: [PDF](/uploads/notas_TN.pdf)**
+
+## Semestre 2025.2
+### Teoria Analítica dos Números
+* **Notas de aula: [PDF](/uploads/notas-teoria-analitica-dos-numeros.pdf)**
 
 <!-- ## Semestre 2025.2 -->
 <!-- ### Teoria Analítica dos Números -->
