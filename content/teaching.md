@@ -21,11 +21,9 @@ math: true
 tags : []
 ---
 
-## Semestre 2026.1
 ### Teoria dos Números
 * **Notas de aula: [PDF](/uploads/notas_TN.pdf)**
 
-## Semestre 2025.2
 ### Teoria Analítica dos Números
 * **Notas de aula: [PDF](/uploads/notas-teoria-analitica-dos-numeros.pdf)**
 
