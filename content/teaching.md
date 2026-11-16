@@ -27,7 +27,6 @@ tags : []
 ### Teoria Analítica dos Números
 * **Notas de aula: [PDF](/uploads/notas-teoria-analitica-dos-numeros.pdf)**
 
-<!-- ## Semestre 2025.2 -->
 <!-- ### Teoria Analítica dos Números -->
 <!-- * **Segunda 09 JAN 2026:**  -->
 <!-- * **Segunda 07 JAN 2026:**  -->
