@@ -27,25 +27,25 @@ Inline math on this page uses \\( ... \\).
 
 ## Postdocs
 
-* **Caio César Mafia Bueno**<br><span class="meta">UFC · starting January 2027</span>
+* **Caio César Mafia Bueno** {{< lattes "8360971680841717" >}}<br><span class="meta">UFC · starting January 2027</span>
 
 ## Ph.D.
 
-* **Davi Nilson Mendonça Souza**<br><span class="meta">UFC · March 2025 – present</span>
+* **Davi Nilson Mendonça Souza** {{< lattes "3474675958440639" >}}<br><span class="meta">UFC · March 2025 – present</span>
 
 ## Master's
 
-* **Francisco Guilherme Ferreira Sousa**<br><span class="meta">UFC · August 2026 – present</span>
-* **Otávio Araújo de Aguiar**<br><span class="meta">UFC · 2019 – 2021</span><br>*[Sobre o problema de Linnik na esfera](https://repositorio.ufc.br/bitstream/riufc/61405/5/2021_dis_oaaguiar.pdf)*
+* **Francisco Guilherme Ferreira Sousa** {{< lattes "9030168068758890" >}}<br><span class="meta">UFC · August 2026 – present</span>
+* **Otávio Araújo de Aguiar** {{< lattes "8670387244322532" >}}<br><span class="meta">UFC · 2019 – 2021</span><br>*[Sobre o problema de Linnik na esfera](https://repositorio.ufc.br/bitstream/riufc/61405/5/2021_dis_oaaguiar.pdf)*
 
 ## Undergraduate
 
-* **João Marcos Aragão Mesquita Rogério**<br><span class="meta">UFC · September 2026 – present</span>
-* **Pedro Ramon Souza de Almeida**<br><span class="meta">UFC · September 2026 – present</span>
-* **Ycaro Castro Teles**<br><span class="meta">UFC · September 2026 – present</span>
-* **Francisco Guilherme Ferreira Sousa**<br><span class="meta">UFC · January 2026 – July 2026</span>
-* **João Guilherme Costa Viana**<br><span class="meta">UFC · March 2025 – December 2025</span>
-* **Kauã Allan Araújo de Souza**<br><span class="meta">UFC · September 2024 – present</span>
-* **Israel Mesquita Magalhães**<br><span class="meta">UFC · August 2024 – December 2025</span>
+* **João Marcos Aragão Mesquita Rogério** {{< lattes "7503309058898326" >}}<br><span class="meta">UFC · September 2026 – present</span>
+* **Pedro Ramon Souza de Almeida** {{< lattes "4402870519346935" >}}<br><span class="meta">UFC · September 2026 – present</span>
+* **Ycaro Castro Teles** {{< lattes "6564348050089657" >}}<br><span class="meta">UFC · September 2026 – present</span>
+* **Francisco Guilherme Ferreira Sousa** {{< lattes "9030168068758890" >}}<br><span class="meta">UFC · January 2026 – July 2026</span>
+* **João Guilherme Costa Viana** {{< lattes "4339616623293988" >}}<br><span class="meta">UFC · March 2025 – December 2025</span>
+* **Kauã Allan Araújo de Souza** {{< lattes "3294561035178747" >}}<br><span class="meta">UFC · September 2024 – present</span>
+* **Israel Mesquita Magalhães** {{< lattes "9775773292016188" >}}<br><span class="meta">UFC · August 2024 – December 2025</span>
 
 </div>

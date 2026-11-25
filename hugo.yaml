@@ -420,7 +420,7 @@ params:
     profiles:
       email: mailto:ramon@mat.ufc.br
       googlescholar: https://scholar.google.com.br/citations?user=AEyfL28AAAAJ&hl=en-US&authuser=2
-      lattes: https://lattes.cnpq.br/0945928298949594
+      lattes: https://busca-cv-lattes.cnpq.br/curriculo/0945928298949594
       orcid: https://orcid.org/0000-0001-7279-0249
       cv: /uploads/cv.pdf
     # socialNetworks:
